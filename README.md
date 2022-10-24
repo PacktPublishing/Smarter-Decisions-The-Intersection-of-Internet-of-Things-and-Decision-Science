@@ -18,3 +18,7 @@ all operating systems mentioned above.
 * [IT Inventory and Resource Management with OCS Inventory NG 1.02](https://www.packtpub.com/hardware-and-creative/it-inventory-and-resource-management-ocs-inventory-ng-102?utm_source=GitHub&utm_medium=repository&utm_campaign=9781849511100)
 * [Android 3.0 Application Development Cookbook](https://www.packtpub.com/application-development/oracle-identity-and-access-manager-11g-administrators?utm_source=GitHub&utm_medium=repository&utm_campaign=9781849682688)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785884191">https://packt.link/free-ebook/9781785884191 </a> </p>
